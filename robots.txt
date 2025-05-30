@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sumanearth.github.io/al-folio/sitemap.xml
